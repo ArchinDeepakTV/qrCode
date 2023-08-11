@@ -1,5 +1,4 @@
 /* https://www.w3schools.com/howto/howto_css_cards.asp */
-/* https://www.geeksforgeeks.org/how-to-make-a-qr-code-generator-using-qrcode-js/ */
 
 html {
     background-color: black;
@@ -29,5 +28,6 @@ html {
         box-shadow: 0 4px 8px 0 rgba(255, 255, 255);
         height: 60vh;
         width: 60vw;
+        margin-top: 3%;
     }
 }
